@@ -50,6 +50,10 @@ Open clustering_comparison.ipynb in Jupyter Notebook or JupyterLab.
 Follow the instructions in the notebook to load the data and compare the clustering algorithms.
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+### Improvements
+- Add clutering algorithm
+- Add weighted importance to the metrics for the computation of the final score of the model
+- Compute the difference between groups to see if some groups are closer to each other than others
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
